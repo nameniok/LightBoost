@@ -6,7 +6,7 @@ LightBoost modpacks support **older versions** of Minecraft
 
 - There are no mods that cause cpu and gpu harassment
 - Modpack is small, not loaded with too many optimization mods
-- LightBoost will run smoothly even with 1500 ram (on 1.18.1)
+- LightBoost will run smoothly even with 2000 ram (on 1.18.1)
 
 Mods for better gameplay: **147kb**
 - centered menu
