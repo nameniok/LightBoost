@@ -8,10 +8,10 @@ LightBoost modpacks support **older versions** of Minecraft
 - Modpack is small, not loaded with too many optimization mods
 - LightBoost will run smoothly even with 1500 ram (on 1.18.1)
 
-Mods for better gameplay: **147kb**\
- ▸centered menu\
- ▸clean F3\
- ▸model gap fix
+Mods for better gameplay: **147kb**
+- centered menu
+- clean F3
+- model gap fix
 
 
 
