@@ -21,7 +21,7 @@ Mods for better gameplay: **147kb**\
 More info in [gallery](https://modrinth.com/modpack/lightboost/gallery)
 
 ## Total weight of all mods:
-- [Minecraft 1.18.1](https://modrinth.com/modpack/lightboost/version/1.1-1.18.1) -  14 mods, **3,07mb**\
+- [Minecraft 1.18.1](https://modrinth.com/modpack/lightboost/version/1.1-1.18.1) -  14 mods, **3,07mb**
 
 
 
