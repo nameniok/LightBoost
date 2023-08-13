@@ -1,4 +1,4 @@
-![LightBoost Title Bar](https://i.imgur.com/2JkYPP8.png)
+[![LightBoost Title Bar](https://i.imgur.com/2JkYPP8.png)](https://modrinth.com/modpack/lightboost)
 
 [LightBoost](https://modrinth.com/modpack/lightboost) is a lightweight modpack for FPS Boost aimed at **weak or medium** PCs / laptops (**FOR FABRIC**)\
 The main goal of a modpack is **to make the package as light as possible**\
