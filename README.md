@@ -2,7 +2,7 @@
 
 [LightBoost](https://modrinth.com/modpack/lightboost) is a lightweight modpack for FPS Boost aimed at **weak or medium** PCs / laptops (**FOR FABRIC**)\
 The main goal of a modpack is **to make the package as light as possible**\
-Modpacks will be made for **older versions** of Minecraft
+LightBoost modpacks support **older versions** of Minecraft
 
 - There are no mods that cause cpu and gpu harassment
 - Modpack is small, not loaded with too many optimization mods
