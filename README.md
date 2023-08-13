@@ -26,7 +26,7 @@ More info in [gallery](https://modrinth.com/modpack/lightboost/gallery)
 
 
 <details>
-<summary>List of all used mods (14)</summary>
+<summary>Credits to all used mods (14)</summary>
 
 - Clean F3 (https://modrinth.com/mod/clean-f3)
 - Sodium (https://modrinth.com/mod/sodium)
