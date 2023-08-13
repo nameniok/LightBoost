@@ -1,6 +1,6 @@
 ![LightBoost Title Bar](https://i.imgur.com/2JkYPP8.png)
 
-LightBoost is a lightweight modpack for FPS Boost aimed at **weak or medium** PCs / laptops (**FOR FABRIC**)\
+[LightBoost](https://modrinth.com/modpack/lightboost) is a lightweight modpack for FPS Boost aimed at **weak or medium** PCs / laptops (**FOR FABRIC**)\
 The main goal of a modpack is **to make the package as light as possible**
 - There are no mods that cause cpu and gpu harassment
 - Modpack is small, not loaded with too many optimization mods
